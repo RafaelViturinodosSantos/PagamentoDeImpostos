@@ -1,0 +1,11 @@
+C:\Users\rafa_\Desktop\C#\Programas\PagamentoDeImpostos\PagamentoDeImpostos\bin\Debug\netcoreapp2.1\PagamentoDeImpostos.deps.json
+C:\Users\rafa_\Desktop\C#\Programas\PagamentoDeImpostos\PagamentoDeImpostos\bin\Debug\netcoreapp2.1\PagamentoDeImpostos.runtimeconfig.json
+C:\Users\rafa_\Desktop\C#\Programas\PagamentoDeImpostos\PagamentoDeImpostos\bin\Debug\netcoreapp2.1\PagamentoDeImpostos.runtimeconfig.dev.json
+C:\Users\rafa_\Desktop\C#\Programas\PagamentoDeImpostos\PagamentoDeImpostos\bin\Debug\netcoreapp2.1\PagamentoDeImpostos.dll
+C:\Users\rafa_\Desktop\C#\Programas\PagamentoDeImpostos\PagamentoDeImpostos\bin\Debug\netcoreapp2.1\PagamentoDeImpostos.pdb
+C:\Users\rafa_\Desktop\C#\Programas\PagamentoDeImpostos\PagamentoDeImpostos\obj\Debug\netcoreapp2.1\PagamentoDeImpostos.csprojAssemblyReference.cache
+C:\Users\rafa_\Desktop\C#\Programas\PagamentoDeImpostos\PagamentoDeImpostos\obj\Debug\netcoreapp2.1\PagamentoDeImpostos.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\Desktop\C#\Programas\PagamentoDeImpostos\PagamentoDeImpostos\obj\Debug\netcoreapp2.1\PagamentoDeImpostos.AssemblyInfoInputs.cache
+C:\Users\rafa_\Desktop\C#\Programas\PagamentoDeImpostos\PagamentoDeImpostos\obj\Debug\netcoreapp2.1\PagamentoDeImpostos.AssemblyInfo.cs
+C:\Users\rafa_\Desktop\C#\Programas\PagamentoDeImpostos\PagamentoDeImpostos\obj\Debug\netcoreapp2.1\PagamentoDeImpostos.dll
+C:\Users\rafa_\Desktop\C#\Programas\PagamentoDeImpostos\PagamentoDeImpostos\obj\Debug\netcoreapp2.1\PagamentoDeImpostos.pdb
